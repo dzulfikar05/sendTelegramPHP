@@ -24,3 +24,6 @@ function sendMessage($telegram_id, $message_text, $secret_token) {
     }
 }
 ?>
+
+<!-- get api response -->
+<!-- https://api.telegram.org/bot7190147038:AAHBfcvuFd1Cw0hsSw27ZMR5aJOUCQY7aEE/getUpdates -->
